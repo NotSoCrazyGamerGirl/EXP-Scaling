@@ -1,0 +1,5 @@
+Name         = EXP Scaling
+Version      = 1.0
+Essentials   = 20.1
+Link         = https://github.com/NotSoCrazyGamerGirl/EXP-Scaling
+Credits      = NotSoCrazyGamerGirl
